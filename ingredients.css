@@ -1,7 +1,7 @@
 .bun-top {
   height: 70px;
   width: 60%;
-  background: #e5b05a;
+  background: #f5d56ee7;
   border-radius: 100px 100px 20px 20px;
   border-bottom: solid 10px rgba(0,0,0,.1);
 }
@@ -54,7 +54,7 @@
 .bun-bottom {
   height: 35px;
   width: 60%;
-  background: #e5b05a;
+  background: #f5d56ee7;
   border-radius: 20px 20px 40px 40px;
   border-top: solid 8px rgba(0,0,0,.1)
 }
@@ -64,4 +64,23 @@
   width: 80%;
   background: #656565;
   border-radius: 20px 20px 200px 200px;
+}
+
+.worm {
+  height: 75px;
+  width: 70%;
+  background-color: rgba(98, 224, 129, 0.747);
+
+}
+
+.mayo {
+  height: 10px;
+  width: 61%;
+  background-color: rgba(247, 233, 112, 0.733);
+}
+
+.lettuce {
+  height: 5px;
+  width: 63%;
+  background-color: rgba(195, 255, 97, 0.808)
 }
